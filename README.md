@@ -1,0 +1,12 @@
+# deddit
+-React
+-Typescript
+-GraphQL
+-URQL
+-Node.JS
+-PostgreSQL
+-MikroORM/TypeORM
+-Redis
+-Next.JS
+-TypeGraphQL
+-Chakra
