@@ -78,9 +78,9 @@ export class UserResolver {
         ],
       };
     }
-    
+
     return {
-        user,
+      user,
     };
   }
 }
